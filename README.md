@@ -1,5 +1,5 @@
 #  I Am Poor
-An iOS app which is a clone of the famous "I Am Rich" app.
+A clone of the famous "I Am Rich" app. This was the project that started my journy through iOS development.
 
 ## Note
 Layout constraints have not being implemented: iPhone 7 Plus is the recommended device to run the app.<br>
